@@ -10,3 +10,8 @@ class user():
         self.id = _id
         self.username = username
         self.password = password
+        
+    def sample_fun(self):
+        print(self.id)
+        
+        
