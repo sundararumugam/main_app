@@ -18,7 +18,10 @@ def update():
     print(type(data))
     print(data)
     
-
+def sub():
+    a = 0
+    b = 10
+    print(a+b)
 
 
 
